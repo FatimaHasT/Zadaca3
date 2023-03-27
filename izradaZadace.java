@@ -60,10 +60,17 @@ public class izradaZadace {
         int[] myIntArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int[] reversedArray = new int[myIntArray.length];
 
+<<<<<<< HEAD
         for (int j = myIntArray.length - 1; j >= 0; j--) {
             reversedArray[j] = myIntArray[j];
             System.out.println(reversedArray[j]);
     }
+=======
+        for (int i = myIntArray.length - 1; i >= 0; i--) {
+            reversedArray[i] = myIntArray[i];
+            System.out.println(reversedArray[i]);
+        }
+>>>>>>> 610d9203aa252fd19fc5eeaf019da2ff7a92e57f
 
             // 4.Task
         System.out.println("");
@@ -221,7 +228,11 @@ public class izradaZadace {
 
 
         }
+<<<<<<< HEAD
     } }
+=======
+    }
+>>>>>>> 610d9203aa252fd19fc5eeaf019da2ff7a92e57f
 
 
 
