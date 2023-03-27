@@ -55,7 +55,7 @@ public class izradaZadace {
         for (int i = myIntArray.length - 1; i >= 0; i--) {
             reversedArray[i] = myIntArray[i];
             System.out.println(reversedArray[i]);
-
+        }
 
             // 4.Task
 
@@ -194,7 +194,7 @@ public class izradaZadace {
 
 
         }
-    }}
+    }
 
 
 
